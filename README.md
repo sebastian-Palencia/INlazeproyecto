@@ -16,7 +16,7 @@ Ensure you have the following prerequisites installed on your system:
 Use Python to create a virtual environment. Open your terminal and execute:
 
 ```bash
-python3.7 -m venv myenv
+python -m venv myenv
 ```
 
 Replace `myenv` with the desired name for your virtual environment.
